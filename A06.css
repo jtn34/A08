@@ -1,0 +1,123 @@
+body {
+    border: 2px solid #800000;
+    padding: 10px;
+    width: 100%;
+    height: 100%;
+}
+
+#logo {
+    float: left;
+    margin-right: 20px;
+    max-width: 150px;
+}
+
+#intro {
+    color: #800000;
+}
+
+#main\ body {
+    width: 525px;
+    float: right;
+    overflow: hidden;
+    padding: 0 20px 20px 20px;
+}
+
+aside {
+    width: 215px;
+    float: left;
+    content: "guest speakers";
+    display: table;
+    clear: both;
+    overflow: hidden;
+    padding: 20px 20px 20px 20px;
+}
+
+#copyright {
+    content: "copyright";
+    display: table;
+    clear: both;
+}
+
+#town\ hall {
+    overflow: hidden;
+}
+
+#celebrating {
+    overflow: hidden;
+}
+
+#town\ hall {
+    color: #800000;
+}
+
+#mission\ title {
+    color: #800000;
+}
+
+#quote {
+    margin-left: 50px;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background: #800000;
+    clear: both;
+}
+
+#fossil\ threads {
+    color: #800000;
+}
+
+#fossils {
+    float: left;
+    width: 262px;
+}
+
+#scott\ fossil {
+    float: right;
+    text-align: center;
+}
+
+#packages {
+    clear: both;
+}
+
+#price {
+    color: #800000;
+}
+
+#shadow {
+    text-shadow: #800000 2px 1px 0;
+}
+
+#david\ brancaccio {
+    width: 90px;
+    height: 82px;
+}
+
+#andrew\ ross\ sorkin {
+    width: 90px;
+    height: 82px;
+}
+
+#amy\ chua {
+    width: 90px;
+    height: 82px;
+}
+
+#scott\ sampson {
+    width: 90px;
+    height: 82px;
+}
+
+#copyright {
+    text-align: center;
+    position: relative;
+    background-color: #800000;
+    padding: 20px;
+    border: 2px solid #800000;
+    width: calc(100% - 20px);
+    color: white;
+    margin: 0 auto;
+}

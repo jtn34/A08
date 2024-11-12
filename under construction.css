@@ -1,0 +1,16 @@
+#title {
+    position: relative;
+    text-align: center;
+}
+#cartoon {
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    word-break-wrap: break-word;
+    display: flex;
+}
+
+#statement {
+    position: relative;
+    text-align: center;
+}
